@@ -9,6 +9,6 @@
 data_golf
 }
 \description{
-This well known small data frame containst 14 cases indicating wheter or not play golf based on wheather conditions. Target variable: 'play_golf.'
+This well known small data frame contains 14 cases indicating whether or not to play golf based on weather conditions. Target variable: 'play_golf.'
 }
 \keyword{datasets}
